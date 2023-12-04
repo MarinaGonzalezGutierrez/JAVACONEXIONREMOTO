@@ -1,4 +1,4 @@
 <?php
 echo 'Hola mundo';
-echo 'Hoy es viernes'
+echo 'Hoy es lunes'
 ?>
